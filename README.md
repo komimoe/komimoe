@@ -1,84 +1,80 @@
 <div align="center">
   
-# 🌸 你好呀~ Hi there! 🌸
+# 👋 你好！Hi there! 
 
 ### 我是 komimoe | I'm komimoe
-*一个可爱的女孩子 | A cute girl*
+*一个可爱的系统程序员 & 安全研究员 | A Cute System Programmer & Security Researcher* 💕
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C+Welcome!;%E4%B8%80%E8%B5%B7%E5%86%99%E4%BB%A3%E7%A0%81%E5%90%A7+Let's+code+together!;%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%A6%81%E5%BC%80%E5%BF%83%E5%93%A6+Have+a+nice+day!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=欢迎来到我的主页,我很可爱;Welcome,Im a cute girl;底层编程爱好者+Low-level+programming;二进制利用+Binary+exploitation;逆向工程+Reverse+engineering" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 💖 关于我 | About Me
+## 🔍 关于我 | About Me
 
-```javascript
-const komimoe = {
-    pronouns: "she/her | 她",
-    location: "🌏 Somewhere cute",
-    interests: ["💻 Coding", "🎨 Design", "🎮 Gaming", "📚 Reading"],
-    currentlyLearning: ["🚀 New technologies", "🌟 Cool projects"],
-    funFact: "我喜欢让代码变得可爱 | I love making code cute!",
-    motto: "用心写代码，用爱创造美好 | Code with heart, create with love 💕"
+```c
+struct Developer {
+    const char* name;
+    const char* role;
+    const char* location;
+    const char* interests[6];
+    const char* current_focus;
+    bool is_cute;
+};
+
+struct Developer komimoe = {
+    .name = "komimoe",
+    .role = "可爱的系统程序员 & 安全研究员",
+    .location = "互联网的某个角落",
+    .interests = {
+        "底层编程",
+        "二进制漏洞利用",
+        "逆向工程",
+        "操作系统内核",
+        "漏洞研究",
+        "Rust语言学习中 🦀"
+    },
+    .current_focus = "深入研究系统架构和安全",
+    .is_cute = true  // 这很重要！
 };
 ```
 
-## 🎀 技能 | Skills
+## 💻 技术栈 | Tech Stack
 
 <div align="center">
 
-### 语言 | Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 编程语言 | Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Assembly](https://img.shields.io/badge/-x86_Assembly-0078D4?style=flat-square&logo=assemblyscript&logoColor=white)
 
-### 框架 & 工具 | Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 安全与逆向 | Security & Reverse Engineering
+![IDA Pro](https://img.shields.io/badge/-IDA_Pro-000000?style=flat-square) ![Ghidra](https://img.shields.io/badge/-Ghidra-ED1C24?style=flat-square) ![GDB](https://img.shields.io/badge/-GDB-5C5C5C?style=flat-square) ![Binary Exploitation](https://img.shields.io/badge/-二进制利用-FF6B6B?style=flat-square) ![Reverse Engineering](https://img.shields.io/badge/-逆向工程-4ECDC4?style=flat-square)
+
+### 工具与平台 | Tools & Platforms
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 </div>
 
-## 📊 GitHub 统计 | GitHub Stats
+## 🚀 当前专注 | Current Focus
 
-<div align="center">
-  
-![komimoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=komimoe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFF)
+- 🔭 专注于底层系统项目和安全研究
+- 🦀 正在学习 Rust 语言，感受内存安全的魅力
+- 🌱 探索高级漏洞利用技术和内核机制
+- 👯 欢迎在安全工具和逆向工程项目上合作
+- 💬 乐于讨论系统编程、二进制分析或安全相关的任何话题
+- ⚡ 趣事：我在调试器里的时间比浏览器里还多！
+- 💕 别看我研究安全，其实我超可爱的呢~
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komimoe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFF)
+## 💰 赞助支持 | Support Me
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komimoe&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4)
-
-</div>
-
-## 🌟 当前状态 | Current Status
-
-- 🔭 正在开发有趣的项目 | Working on exciting projects
-- 🌱 持续学习新技术 | Continuously learning new technologies
-- 👯 乐于合作交流 | Open to collaboration
-- 💬 欢迎交流讨论 | Feel free to chat about anything tech!
-- ⚡ 趣事：每天都要保持可爱！ | Fun fact: Stay cute every day!
-
-## 📫 联系我 | Contact Me
+如果你觉得我的项目对你有帮助，可以请我喝杯咖啡哦~（孩子快饿死了，给点钱吃饭吧） ☕
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/komimoe)
+### 微信赞赏码
 
-</div>
+<img src="weixin_pay_qr.jpg" width="400" alt="微信赞赏码" />
 
----
-
-<div align="center">
-  
-### 💝 谢谢你的访问！| Thanks for visiting! 💝
-
-![Visitor Count](https://profile-counter.glitch.me/komimoe/count.svg)
-
-*让我们一起创造美好的代码世界吧！| Let's create a wonderful world of code together!* ✨
+*感谢你的支持，让可爱的我能继续产出优质内容！* 💖
 
 </div>
