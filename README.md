@@ -5,7 +5,7 @@
 ### 我是 komimoe | I'm komimoe
 *一个可爱的系统程序员 & 安全研究员 | A Cute System Programmer & Security Researcher* 💕
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=欢迎来到我的主页,我很可爱;Welcome,Im a cute girl;底层编程爱好者+Low-level+programming;二进制利用+Binary+exploitation;逆向工程+Reverse+engineering" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&size=21&letterSpacing=0.2rem&duration=3000&pause=700&color=FF9CEC&background=FFFFFF00&center=true&width=600&height=70&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%2C%E6%88%91%E5%BE%88%E5%8F%AF%E7%88%B1;Welcome%2C+Im+a+cute+girl;%E5%BA%95%E5%B1%82%E7%BC%96%E7%A8%8B%E7%88%B1%E5%A5%BD%E8%80%85+Low-level+programming;%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%88%A9%E7%94%A8+Binary+exploitation;%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B+Reverse+engineering)](https://git.io/typing-svg)
 
 </div>
 
