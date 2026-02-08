@@ -44,8 +44,8 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komimoe&show_icons=true&theme=radical&hide_border=true)](https://github.com/komimoe)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komimoe&layout=compact&theme=radical&hide_border=true)](https://github.com/komimoe)
+[![GitHub followers](https://img.shields.io/github/followers/komimoe?style=for-the-badge)](https://github.com/komimoe?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/komimoe?style=for-the-badge)](https://github.com/komimoe?tab=stars)
+[![Profile views](https://komarev.com/ghpvc/?username=komimoe&style=for-the-badge)](https://github.com/komimoe)
 
 </div>
