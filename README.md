@@ -4,6 +4,8 @@
 
 ### 我是 komimoe | I'm komimoe
 *系统程序员 & 安全研究员 | System Programmer & Security Researcher*
+</br>
+*抑郁症又严重了一些了呢，不知道还能撑多久。My depression has gotten a bit worse; I wonder how much longer I can hold on.*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+SC&size=21&letterSpacing=0.2rem&duration=3000&pause=700&color=FF9CEC&background=FFFFFF00&center=true&width=600&height=70&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5;Welcome+to+my+homepage;%E5%BA%95%E5%B1%82%E7%BC%96%E7%A8%8B%E7%88%B1%E5%A5%BD%E8%80%85+Low-level+programming;%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%88%A9%E7%94%A8+Binary+exploitation;%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B+Reverse+engineering)](https://git.io/typing-svg)
 
